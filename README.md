@@ -1,2 +1,3 @@
 # MIT6.828
-learn os
+
+learn how OS work
